@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="colorPrimary">#d3d6db</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#053A73</color>
+
+    <color name="success">#5CB55A</color>
+    <color name="Error">#E93F33</color>
+    <color name="Warning">#E87535</color>
+
+    <color name="ThemeColor">#E87535</color>
+
+
+
+    <color name="background_edit_box">#FFFFFFFF</color>
+    <color name="text_grey">#797979</color>
+    <color name="text_color">#FF000000</color>
+
+    <color name="bottom_bar"> #F4F4F4</color>
+    <color name="bottom_icon_color">#1C1C28</color>
+    <color name="background_grey">#F4F4F4</color>
+
+
+
+    <color name="primarycolor">@color/ThemeColor</color>
+    <color name="secondarycolor">@color/white</color>
+    <color name="buttoncolor">@color/ThemeColor</color>
+    <color name="background">#FFFFFF</color>
+    <color name="pinbuttoncolor">#F4F4F4</color>
+    <color name="pintextcolor">#000000</color>
+    <color name="pinlable">#000000</color>
+    <color name="navigation_menu_background">#1d1d2a</color>
+    <color name="navigation_divider_line">#ffff</color>
+    <color name="navigation_lable_text">#ffff</color>
+    <color name="menu_lable">#000000</color>
+    <color name="ticketbackgroundcolor">@color/background_grey</color>
+    <color name="ticket_textcolor">#000000</color>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
